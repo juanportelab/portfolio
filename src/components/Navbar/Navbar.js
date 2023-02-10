@@ -23,7 +23,7 @@ const Navbar = () => {
       <S.ContainerItems showMenuBurger={showMenuBurger}>
         <p>About me</p>
         <p>Projects</p>
-        <S.Button>Contact me</S.Button>
+        <S.Button>🤙🏼 Contact me</S.Button>
       </S.ContainerItems>
     </S.ContainerNavbar>
   )

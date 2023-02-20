@@ -6,7 +6,7 @@ import logoWebSite from '../../svg/website.svg';
 
 const Projects = () => {
   return (
-    <S.ContainerProjects>
+    <S.ContainerProjects id="projects">
       <S.Title>
         Some of <span><br></br>My projects</span>
       </S.Title>
